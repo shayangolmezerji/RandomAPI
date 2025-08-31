@@ -1,7 +1,3 @@
-Okay, I'll update and fix the `README.md` file for you. I've corrected the `curl` command in the "How to Test" section to reflect the actual endpoint and the required data fields you discovered.
-
------
-
 # RandomAPI: The Modern Dockerized API Project 🚀
 
 RandomAPI is a robust, production-ready template for building and deploying APIs with a modern, containerized architecture. This project provides a complete setup using Docker Compose, integrating FastAPI for a high-performance Python API and MongoDB for a powerful NoSQL database.
